@@ -1,0 +1,16 @@
+USE DATABASE FITBIT_DB;
+USE SCHEMA FITBIT_DATAFILES;
+
+-- check the table structure
+SELECT * FROM FITBITSUMMARYINFO
+LIMIT 10;
+
+-- look at the highest users that had the highest acticity (avg calories and avg steps) by week
+SELECT id, week, avgcalories, avgsteps
+FROM FITBITSUMMARYINFO
+ORDER BY week, avgcalories DESC;
+
+-- incldue by person
+SELECT id, week, avgcalories, avgsteps
+FROM FITBITSUMMARYINFO
+ORDER BY id, week;
