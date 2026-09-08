@@ -23,5 +23,8 @@ visualization), Python
 
 ## Results
 Average activity by week for each user (Databricks Visualization)
-<img width="998" height="374" alt="image" src="https://github.com/user-attachments/assets/3fdc1656-264e-40ab-ad17-aca47c248624" />
+<img width="1098" height="474" alt="image" src="https://github.com/user-attachments/assets/3fdc1656-264e-40ab-ad17-aca47c248624" />
+
+Avg Steps per week (sum, Snowflake Visualization)
+<img width="1291" height="353" alt="image" src="https://github.com/user-attachments/assets/e023fef8-c506-4902-bd56-0d794b9dd96b" />
 
