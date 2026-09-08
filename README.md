@@ -28,3 +28,13 @@ Average activity by week for each user (Databricks Visualization)
 Avg Steps per week (sum, Snowflake Visualization)
 <img width="1291" height="353" alt="image" src="https://github.com/user-attachments/assets/e023fef8-c506-4902-bd56-0d794b9dd96b" />
 
+## Repository Structure
+fitbit-databricks-snowflake-pipeline/
+├── README.md
+├── notebooks/
+│   └── databricks_pipeline.ipynb
+├── sql/
+│   └── snowflake_queries.sql
+└── screenshots/
+    ├── databricks_avgActivity_byWeek.png
+    └── weekly_trend_chart.png
