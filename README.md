@@ -22,6 +22,6 @@ Databricks (PySpark, SQL, Delta Lake), Snowflake (SQL, ingestion,
 visualization), Python
 
 ## Results
-Average activity by week for each user
-<img width="1098" height="474" alt="image" src="https://github.com/user-attachments/assets/3fdc1656-264e-40ab-ad17-aca47c248624" />
+Average activity by week for each user (Databricks Visualization)
+<img width="998" height="374" alt="image" src="https://github.com/user-attachments/assets/3fdc1656-264e-40ab-ad17-aca47c248624" />
 
