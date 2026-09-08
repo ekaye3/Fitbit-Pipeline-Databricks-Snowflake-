@@ -32,9 +32,9 @@ Avg Steps per week (sum, Snowflake Visualization)
 fitbit-databricks-snowflake-pipeline/
 ├── README.md
 ├── notebooks/
-│   └── databricks_pipeline.ipynb
+│   └── FitbitDataMergedDates&Processing.ipynb
 ├── sql/
-│   └── snowflake_queries.sql
+│   └── Fitbit_Snowflake Summary Stats Queries.sql
 └── screenshots/
     ├── databricks_avgActivity_byWeek.png
     └── weekly_trend_chart.png
