@@ -22,5 +22,4 @@ Databricks (PySpark, SQL, Delta Lake), Snowflake (SQL, ingestion,
 visualization), Python
 
 ## Results
-![Query results](screenshots/snowflake_query_results.png)
-![Weekly trend](screenshots/weekly_trend_chart.png)
+![Query results](Downloads/PatientvsAvgactivityByWeek.png)
